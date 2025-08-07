@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a sophomore at [ZJU](https://www.zju.edu.cn/english/)‘s [College of Information Science and Electronic Engineering](http://www.isee.zju.edu.cn/iseenglish/). My research interests include AI for EDA and machine learning.
 
-[Email](mailto:3240104568@zju.edu.cn)/[Github](https://github.com/Zicheng-Zhou)/[Wechat](../images/Wechat.jpg)/[CSDN](https://blog.csdn.net/djsjjwnsd?spm=1010.2135.3001.5343)
+[Email](mailto:3240104568@zju.edu.cn)/[Github](https://github.com/Zicheng-Zhou)/[Wechat](https://zicheng-zhou.github.io/image/Wechat.jpg)/[CSDN](https://blog.csdn.net/djsjjwnsd?spm=1010.2135.3001.5343)
 
 A data-driven personal website
 ======
