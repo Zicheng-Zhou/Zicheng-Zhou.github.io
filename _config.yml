@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Zicheng Zhou / James"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Zhejiang China"
-  employer         : "Zhe Jiang University"
+  location         : "China"
+  employer         : "Zhejiang University"
   # uri              : # URL
-  email            : "3240104568@zju.edu.cn \ zhouzicheng66@163.com" 
+  email            : "3240104568@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,8 @@ author:
   dribbble         : # Username
   github           : "https://github.com/Zicheng-Zhou"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")  
+  csdn             : "https://blog.csdn.net/djsjjwnsd?spm=1000.2115.3001.5343"
 
   # Social media
   artstation       : # Username
