@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zicheng Zhou / James"  
+  name             : "Zicheng Zhou"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Zhejiang University"
